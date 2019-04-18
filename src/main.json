@@ -1,0 +1,65 @@
+{
+	"titulo": "Membrax Eletrônicos",
+	"logotipo": "membrax_logo.png",
+
+	"portfolio": [
+		{
+			"nome": "Snake 3082",
+			"thumbnail": "/BizPage/img/img_miniatura/1.png",
+			"image": "/BizPage/img/img_ampliada/1.jpg",
+			"grupo": "Membranas"
+		},{
+			"nome": "Driver D 400",
+			"thumbnail": "/BizPage/img/img_miniatura/2.png",
+			"image": "/BizPage/img/img_ampliada/2.jpg",
+			"grupo": "Membranas"
+		},{
+			"nome": "Tweeter ST 350",
+			"thumbnail": "/BizPage/img/img_miniatura/3.png",
+			"image": "/BizPage/img/img_ampliada/3.jpg",
+			"grupo": "Drivers"
+		},{
+			"nome": "Driver HDI 320",
+			"thumbnail": "/BizPage/img/img_miniatura/4.png",
+			"image": "/BizPage/img/img_ampliada/4.jpg",
+			"grupo": "Membranas"
+		},{
+			"nome": "Driver D 300",
+			"thumbnail": "/BizPage/img/img_miniatura/5.png",
+			"image": "/BizPage/img/img_ampliada/5.jpg",
+			"grupo": "Membranas"
+		},{
+			"nome": "Driver AD 250",
+			"thumbnail": "/BizPage/img/img_miniatura/6.png",
+			"image": "/BizPage/img/img_ampliada/6.jpg",
+			"grupo": "Membranas"
+		}
+	],
+	"clientes": [
+		{
+			"nome": "Cliente 1",
+			"image_url": "/BizPage/img/clients/client-1.png"
+		},{
+			"nome": "Cliente 2",
+			"image_url": "/BizPage/img/clients/client-2.png"
+		},{
+			"nome": "Cliente 3",
+			"image_url": "/BizPage/img/clients/client-3.png"
+		},{
+			"nome": "Cliente 4",
+			"image_url": "/BizPage/img/clients/client-4.png"
+		},{
+			"nome": "Cliente 5",
+			"image_url": "/BizPage/img/clients/client-5.png"
+		},{
+			"nome": "Cliente 6",
+			"image_url": "/BizPage/img/clients/client-6.png"
+		},{
+			"nome": "Cliente 7",
+			"image_url": "/BizPage/img/clients/client-7.png"
+		},{
+			"nome": "Cliente 8",
+			"image_url": "/BizPage/img/clients/client-8.png"
+		}
+	]
+}
