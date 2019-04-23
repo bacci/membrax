@@ -1,7 +1,15 @@
 {
 	"titulo": "Membrax Eletrônicos",
+	"short_titulo": "Membrax",
 	"logotipo": "membrax_logo.png",
-
+	"rodape_text": "Melhor qualidade e som com a melhor membrana do Brasil!",
+	"endereco": "Rua Mantiqueira, 72",
+	"endereco2": "Jardim Santa Luiza - Poá - SP",
+	"pais": "Brasil",
+	"endereco_full": "Rua Mantiqueira, 72 - Jardim Santa Luiza - Poá - SP",
+	"telefone_full": "+551146343131",
+	"telefone": "11 4634-3131",
+	"email": "contato@membrax.com.br",
 	"portfolio": [
 		{
 			"nome": "Snake 3082",
