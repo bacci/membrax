@@ -11,7 +11,7 @@ return function (App $app) {
 
 		$nome_app = $container->get('settings')['application']['name'];
 
-		$file_path = "./src/main.json";
+		$file_path = "../src/main.json";
 
 		if(!file_exists($file_path)) {
 			return $this->view->render($response, 'BizPage/config_needed.html');

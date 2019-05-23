@@ -22,7 +22,7 @@ return function (App $app) {
 
     // Register component on container
     $container['view'] = function ($container) {
-        $view = new \Slim\Views\Twig('templates', [
+        $view = new \Slim\Views\Twig('../templates', [
             'cache' => false
         ]);
 
