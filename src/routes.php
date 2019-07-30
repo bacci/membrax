@@ -23,7 +23,7 @@ return function (App $app) {
 		if(!$data)
 			return $this->view->render($response, 'BizPage/data_error.html');
 
-        return $this->view->render($response, 'BizPage/index.html', ['data' => $data]);
+        return $this->view->render($response, 'BizPage/index.html', ['data' => $data, 'base_url' => $data->base_url]);
     });
 
     // $app->get('/[{name}]', function (Request $request, Response $response, array $args) use ($container) {

@@ -1,4 +1,6 @@
 {
+	"base_url": "http://membrax.localhost/",
+	"prod_base_url": "http://membrax.web7681.kinghost.net/site",
 	"titulo": "Membrax Eletrônicos",
 	"short_titulo": "Membrax",
 	"logotipo": "membrax_logo.png",
@@ -12,35 +14,113 @@
 	"email": "contato@membrax.com.br",
 	"portfolio": [
 		{
-			"nome": "Snake 3082",
-			"thumbnail": "/BizPage/img/img_miniatura/1.png",
-			"image": "/BizPage/img/img_ampliada/1.jpg",
-			"grupo": "Membranas"
+			"nome": "ST Falcon Bobina 1 3/4'",
+			"nome1": "Membrana Fenólica Tweeter",
+			"thumbnail": "/BizPage/img/tratadas/Mem_Fen_Tweeter_ST_Falcon_Bobina_1_3-4_pol_mini.png",
+			"image": "/BizPage/img/tratadas/Mem_Fen_Tweeter_ST_Falcon_Bobina_1_3-4_pol_original.png",
+			"grupo": "1-34"
 		},{
-			"nome": "Driver D 400",
-			"thumbnail": "/BizPage/img/img_miniatura/2.png",
-			"image": "/BizPage/img/img_ampliada/2.jpg",
-			"grupo": "Membranas"
+			"nome": "ST 350 ST 400 Bobina 1 3/4'",
+			"nome1": "Membrana Fenólica Tweeter",
+			"thumbnail": "/BizPage/img/tratadas/Mem_Fen_Tweeter_ST_350_ST_400_Bobina_1_3-4_pol_mini.png",
+			"image": "/BizPage/img/tratadas/Mem_Fen_Tweeter_ST_350_ST_400_Bobina_1_3-4_pol_original.png",
+			"grupo": "1-34"
 		},{
-			"nome": "Tweeter ST 350",
-			"thumbnail": "/BizPage/img/img_miniatura/3.png",
-			"image": "/BizPage/img/img_ampliada/3.jpg",
-			"grupo": "Drivers"
+			"nome": "ST 300 ST 304 ST HI 320 Bobina 1 3/4'",
+			"nome1": "Membrana Fenólica Tweeter",
+			"thumbnail": "/BizPage/img/tratadas/Mem_Fen_Tweeter_ST_300_ST_304_ST_HI_320_Bobina_1_3-4_pol_mini.png",
+			"image": "/BizPage/img/tratadas/Mem_Fen_Tweeter_ST_300_ST_304_ST_HI_320_Bobina_1_3-4_pol_original.png",
+			"grupo": "1-34"
 		},{
-			"nome": "Driver HDI 320",
-			"thumbnail": "/BizPage/img/img_miniatura/4.png",
-			"image": "/BizPage/img/img_ampliada/4.jpg",
-			"grupo": "Membranas"
+			"nome": "NST 2005 Bobina 1 3/4'",
+			"nome1": "Membrana Fenólica Tweeter",
+			"thumbnail": "/BizPage/img/tratadas/Mem_Fen_Tweeter_NST_2005_Bobina_1_3-4_pol_mini.png",
+			"image": "/BizPage/img/tratadas/Mem_Fen_Tweeter_NST_2005_Bobina_1_3-4_pol_original.jpg",
+			"grupo": "1-34"
 		},{
-			"nome": "Driver D 300",
-			"thumbnail": "/BizPage/img/img_miniatura/5.png",
-			"image": "/BizPage/img/img_ampliada/5.jpg",
-			"grupo": "Membranas"
+			"nome": "VD 202 Bobina 1 3/4'",
+			"nome1": "Membrana Fenólica Driver",
+			"thumbnail": "/BizPage/img/tratadas/Mem_Fen_Driver_VD_202_Bobina_1_3-4_pol_original.png",
+			"image": "/BizPage/img/tratadas/Mem_Fen_Driver_VD_202_Bobina_1_3-4_pol_original.png",
+			"grupo": "1-34"
 		},{
-			"nome": "Driver AD 250",
-			"thumbnail": "/BizPage/img/img_miniatura/6.png",
-			"image": "/BizPage/img/img_ampliada/6.jpg",
-			"grupo": "Membranas"
+			"nome": "TSR Bobina 1 3/4'",
+			"nome1": "Membrana Fenólica Driver",
+			"thumbnail": "/BizPage/img/tratadas/Mem_Fen_Driver_TSR_Bobina_1_3-4_pol_mini.png",
+			"image": "/BizPage/img/tratadas/Mem_Fen_Driver_TSR_Bobina_1_3-4_pol_original.png",
+			"grupo": "1-34"
+		},{
+			"nome": "Snake 3053 Bobina 3'",
+			"nome1": "Membrana Fenólica Driver",
+			"thumbnail": "/BizPage/img/tratadas/Mem_fen_Driver_Snake_3053_Bobina_3_pol_mini.png",
+			"image": "/BizPage/img/tratadas/Mem_fen_Driver_Snake_3053_Bobina_3_pol_original.png",
+			"grupo": "3"
+		},{
+			"nome": "RD 350 Bobina 2'",
+			"nome1": "Membrana Fenólica Driver",
+			"thumbnail": "/BizPage/img/tratadas/Mem_Fen_Driver_RD_350_Bobina_2_pol_mini.png",
+			"image": "/BizPage/img/tratadas/Mem_Fen_Driver_RD_350_Bobina_2_pol_original.png",
+			"grupo": "2"
+		},{
+			"nome": "Oversound DF 375 Bobina 3'",
+			"nome1": "Membrana Fenólica Driver",
+			"thumbnail": "/BizPage/img/tratadas/Mem_fen_Driver_Oversound_DF_375_Bobina_3_pol_mini.png",
+			"image": "/BizPage/img/tratadas/Mem_fen_Driver_Oversound_DF_375_Bobina_3_pol_original.png",
+			"grupo": "3"
+		},{
+			"nome": "ND 2500 Bobina 2'",
+			"nome1": "Membrana Fenólica Driver",
+			"thumbnail": "/BizPage/img/tratadas/Mem_Fen_Driver_ND_2500_bobina_2_pol_mini.png",
+			"image": "/BizPage/img/tratadas/Mem_Fen_Driver_ND_2500_bobina_2_pol_original.png",
+			"grupo": "2"
+		},{
+			"nome": "Falcon Bobina 1 3/4'",
+			"nome1": "Membrana Fenólica Driver",
+			"thumbnail": "/BizPage/img/tratadas/Mem_Fen_Driver_Falcon_Bobina_1_3-4_pol_mini.png",
+			"image": "/BizPage/img/tratadas/Mem_Fen_Driver_Falcon_Bobina_1_3-4_pol_original.png",
+			"grupo": "1-34"
+		},{
+			"nome": "DT 150 Bobina 1'",
+			"nome1": "Membrana Fenólica Driver",
+			"thumbnail": "/BizPage/img/tratadas/Mem_fen_Driver_DT_150_Bobina_1_pol_mini.png",
+			"image": "/BizPage/img/tratadas/Mem_fen_Driver_DT_150_Bobina_1_pol_original.png",
+			"grupo": "1"
+		},{
+			"nome": "D HDI 320 Bobina 2'",
+			"nome1": "Membrana Fenólica Driver",
+			"thumbnail": "/BizPage/img/tratadas/Mem_Fen_Driver_D_HDI_320_Bobina_2_pol_mini.png",
+			"image": "/BizPage/img/tratadas/Mem_Fen_Driver_D_HDI_320_Bobina_2_pol_original.png",
+			"grupo": "2"
+		},{
+			"nome": "D 400 D 405 Bobina 4'",
+			"nome1": "Membrana Fenólica Driver",
+			"thumbnail": "/BizPage/img/tratadas/Mem_Fen_Driver_D_400_D_405_Bobina_4_pol_original.png",
+			"image": "/BizPage/img/tratadas/Mem_Fen_Driver_D_400_D_405_Bobina_4_pol_original.png",
+			"grupo": "4"
+		},{
+			"nome": "D 300 Bobina 2'",
+			"nome1": "Membrana Fenólica Driver",
+			"thumbnail": "/BizPage/img/tratadas/Mem_fen_Driver_D_300_Bobina_2_pol_mini.png",
+			"image": "/BizPage/img/tratadas/Mem_fen_Driver_D_300_Bobina_2_pol_original.png",
+			"grupo": "2"
+		},{
+			"nome": "D 250 Trio Bobina 2'",
+			"nome1": "Membrana Fenólica Driver",
+			"thumbnail": "/BizPage/img/tratadas/Mem_Fen_Driver_d_250_Trio_Bobina_2_pol_mini.png",
+			"image": "/BizPage/img/tratadas/Mem_Fen_Driver_d_250_Trio_Bobina_2_pol_original.png",
+			"grupo": "2"
+		},{
+			"nome": "D 250 Bobina 2'",
+			"nome1": "Membrana Fenólica Driver",
+			"thumbnail": "/BizPage/img/tratadas/Mem_Fen_Driver_d_250_Bobina_2_pol_mini.png",
+			"image": "/BizPage/img/tratadas/Mem_Fen_Driver_d_250_Bobina_2_pol_original.png",
+			"grupo": "2"
+		},{
+			"nome": "Snake 3082 Bobina 4'",
+			"nome1": "Membrana Fenólica Driver",
+			"thumbnail": "/BizPage/img/tratadas/Mem_Fen_Drive_Snake_3082_Bobina_4_pol_mini.png",
+			"image": "/BizPage/img/tratadas/Mem_Fen_Drive_Snake_3082_Bobina_4_pol_original.png",
+			"grupo": "4"
 		}
 	],
 	"clientes": [
