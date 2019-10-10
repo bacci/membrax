@@ -1,6 +1,6 @@
 {
-	"base_url": "http://membrax.localhost/",
-	"prod_base_url": "http://membrax.web7681.kinghost.net/site",
+	"base_url": "http://localhost:8080/",
+	"prod_base_url": "http://www.membrax.com.br/site",
 	"titulo": "Membrax Eletrônicos",
 	"short_titulo": "Membrax",
 	"logotipo": "membrax_logo.png",
@@ -149,5 +149,19 @@
 			"nome": "Cliente 8",
 			"image_url": "/BizPage/img/clients/client-8.png"
 		}
-	]
+	],
+	"sendMail": 
+		{
+			"SMTPDebug": false,
+			"smtp_host": "smtp.kinghost.net",
+			"smtp_auth": true,
+			"smtp_user": "nao-responda@membrax.com.br",
+			"smtp_pass": "bN6LMH",
+			"smtp_port": 587,
+			"smtp_secure": "",
+			"email_from":"nao-responda@membrax.com.br",
+			"email_name_from":"Membrax",
+			"email_subject":"Agradecemos o seu contato",
+			"email_contato":"contato@membrax.com.br"
+		}
 }

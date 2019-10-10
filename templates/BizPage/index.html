@@ -192,7 +192,7 @@
         <header class="section-header">
           <h3>Quem Somos</h3>
           <p class="text-justify">A Membrax iniciou em 1990, com um sonho de alcançar o mercado de Membranas Fenólicas trazendo novidade, autenticidade e acima de tudo a ótima qualidade dos produtos ao seu cliente final.</p>
-          <p class="text-justify">Ao longo dos seus 21 anos acumula um histórico de vitórias, conquistas e clientes satisfeitos, fazendo com que sua marca seja reconhecida em todo o território nacional no item Membrana Fenólica.</p>
+          <p class="text-justify">Ao longo desses anos acumula um histórico de vitórias, conquistas e clientes satisfeitos, fazendo com que sua marca seja reconhecida em todo o território nacional no item Membrana Fenólica.</p>
           <p class="text-justify">Além de tudo nunca se esquecendo do seu caráter e honestidade para com seus Clientes, que foi isso que colocou a Membrax no patamar em que se encontrar hoje revolucionando o mercado de Membranas em todo o Brasil.</p>
           <p class="text-justify">Nossa sede se encontra na cidade de Ferraz de Vasconcelos e dispõe de uma excelente estrutura e um quadro de funcionários altamente preparados e treinados para sempre produzir com máxima qualidade, rapidez e praticidade.</p>
         </header>
@@ -655,7 +655,7 @@
         <div class="form">
           <div id="sendmessage">Sua mensagem foi enviada! Obrigado!</div>
           <div id="errormessage"></div>
-          <form action="" method="post" role="form" class="contactForm">
+          <form action="{{ data.base_url }}/sendMessage" method="post" role="form" class="contactForm">
             <div class="form-row">
               <div class="form-group col-md-6">
                 <input type="text" name="name" class="form-control" id="name" placeholder="Seu nome" data-rule="minlen:4" data-msg="Por favor digite pelo menos 4 caracteres" />
@@ -674,7 +674,7 @@
               <textarea class="form-control" name="message" rows="5" data-rule="required" data-msg="Por favor, digite a sua mensagem" placeholder="Mensagem"></textarea>
               <div class="validation"></div>
             </div>
-            <div class="text-center"><button type="submit">Enviar Mensagem</button></div>
+            <div class="text-center"><button type="submit" id="button-send">Enviar Mensagem</button></div>
           </form>
         </div>
 
